@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coder Manuel (Emmanuel Bonke)</h1>
-<h3 align="center">A Passionate Full Stack Mobile Developer</h3>
+<h3 align="center">A Passionate Full Stack Mobile Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/coder_manuel" target="blank"><img src="https://img.shields.io/twitter/follow/coder_manuel?logo=twitter&style=for-the-badge" alt="coder_manuel" /></a> </p>
 
