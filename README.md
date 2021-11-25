@@ -5,7 +5,7 @@
 
 - 🌱 My tech stack is in **Mobile Development using Flutter**, **Server Development using Flask and Fastapi**, **MySQL**, **MongoDB**, **Firebase**
 
-- 🌱 I’m currently learning **Mobile DevOps** and **Docker**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **sirmanuel4@gmail.com**
 
