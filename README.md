@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/coder_manuel" target="blank"><img src="https://img.shields.io/twitter/follow/coder_manuel?logo=twitter&style=for-the-badge" alt="coder_manuel" /></a> </p>
 
+
 - 🌱 My tech stack is in **Mobile Development using Flutter**, **Server Development using Flask and Fastapi**, **MySQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic**
 
 - 🌱 I’m currently learning **Docker** and **Nest-JS** 
