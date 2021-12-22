@@ -5,7 +5,7 @@
 
 - 🌱 My tech stack is in **Mobile Development using Flutter**, **Server Development using Flask and Fastapi**, **MySQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic**
 
-- 🌱 I’m currently learning **Docker** and **Nest-JS**
+- 🌱 I’m currently learning **Docker** and **Nest-JS** 
 
 - 📫 How to reach me **sirmanuel4@gmail.com**
 
