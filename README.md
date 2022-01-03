@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Docker** and **Nest-JS** 
 
+- 🌱 I love **Music**
+
 - 📫 How to reach me **sirmanuel4@gmail.com** 
 
 
