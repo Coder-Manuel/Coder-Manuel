@@ -10,7 +10,7 @@
 
 - 📫 I love **Music** 
 
-- 📫 How to reach me **sirmanuel4@gmail.com**
+- 📫 How to reach me **sirmanuel4@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>   
