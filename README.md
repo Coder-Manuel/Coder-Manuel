@@ -6,7 +6,7 @@
 ![status](https://badge.stateful.com/Coder-Manuel/status.svg)
 
 
-- 🌱 My tech stack is in **Mobile Development using Flutter**, **Server Development using NetsJS and Fastapi**, **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic**
+- 🌱 My tech stack is **Mobile Development using Flutter**, **Server Development using NetsJS and Fastapi**, **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic**
 
 - 🌱 I’m currently learning **Docker** and **Javascript**
 
