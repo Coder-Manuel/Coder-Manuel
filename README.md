@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker** and **Javascript**
 
-- 📫 I love **Music**  
+- 📫 I love **Music** 
 
 - 📫 How to reach me **sirmanuel4@gmail.com**
 
