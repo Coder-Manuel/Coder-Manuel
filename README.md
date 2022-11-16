@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/coder_manuel" target="blank"><img src="https://img.shields.io/twitter/follow/coder_manuel?logo=twitter&style=for-the-badge" alt="coder_manuel" /></a> </p> 
 
+[![wakatime](https://wakatime.com/badge/user/352db711-af25-4169-a26f-862ae360de03.svg)](https://wakatime.com/@352db711-af25-4169-a26f-862ae360de03)
+
 ![status](https://badge.stateful.com/Coder-Manuel/status.svg)
 
 
