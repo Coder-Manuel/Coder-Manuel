@@ -10,9 +10,9 @@
 
 - 🌱 My tech stack is **Mobile Development using Flutter**, **Server Development using NetsJS (typescript)**, **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic, FastLane and Firebase.**
 
-- 🌱 I’m currently learning **Docker** and **Kubernetes**
+- 🌱 I’m currently learning **Docker** and **Kubernetes.**
 
-- 📫 I love **Music**
+- 📫 I love **Music.**
 
 - 📫 How to reach me **[Email](mailto:sirmanuel4@gmail.com)**
 
