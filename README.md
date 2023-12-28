@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cloud Infrastructure** and **Kubernetes.**
 
-- 📫 I love **Music**
+- 📫 I love **Music.**
 
 
 <h3 align="left">Connect with me:</h3>
