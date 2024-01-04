@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋 , I'm Emmanuel Bonke (Coder Manuel)</h1>
-<h3 align="center">A Passionate Full Stack Mobile Engineer.</h3>
+<h3 align="center">A Passionate Full Stack Mobile Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/coder_manuel" target="blank"><img src="https://img.shields.io/twitter/follow/coder_manuel?logo=twitter&style=for-the-badge" alt="coder_manuel" /></a> </p> 
 
@@ -8,11 +8,11 @@
 ![status](https://badge.stateful.com/Coder-Manuel/status.svg)
 
 
-- 🌱 My tech stack is **Mobile Development using Flutter**, **Server Development using NetsJS (typescript)**, **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic, FastLane and Firebase.**
+- 🌱 My tech stack is **Mobile Development using Flutter**, **Server Development using NetsJS (typescript)**, **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, **Mobile DevOps using CodeMagic, FastLane and Firebase**
 
 - 🌱 I’m currently learning **Cloud Infrastructure** and **Kubernetes**
 
-- 📫 I love **Music.**
+- 📫 I love **Music**
 
 
 <h3 align="left">Connect with me:</h3>
