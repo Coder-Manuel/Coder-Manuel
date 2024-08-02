@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Golang.**. 
 
-- 📫 I love **Music.**
+- 📫 I love **Music.** 
 
 
 <h3 align="left">Connect with me:</h3>
