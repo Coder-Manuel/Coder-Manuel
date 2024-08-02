@@ -8,7 +8,7 @@
 ![status](https://badge.stateful.com/Coder-Manuel/status.svg)
 
 
-- 🌱 My tech stack is **Frontend Development: Flutter**, **Server Development: Typescript & Golang**, **Databases: MySQL, PostgreSQL, MongoDB/Firebase**, **CI/CD & DevOps: CodeMagic, Jenkins, FastLane and Firebase.**
+- 🌱 My tech stack is **Frontend Development: Flutter** || **Server Development: Typescript & Golang** || **Databases: MySQL, PostgreSQL, MongoDB/Firebase** || **CI/CD & DevOps: CodeMagic, Jenkins, FastLane and Firebase.**
 
 - 🌱 I’m currently learning **Golang Threading.**.
 
