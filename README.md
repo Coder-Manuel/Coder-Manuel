@@ -10,7 +10,7 @@
 
 - 🌱 My tech stack is **Frontend Development: Flutter**, **Server Development: Typescript & Golang**, **MySQL**, **PostgreSQL**, **MongoDB**, **Firebase**, **CI/CD & DevOps: CodeMagic, FastLane and Firebase.**
 
-- 🌱 I’m currently learning **Golang.**.
+- 🌱 I’m currently learning **Golang Threading.**.
 
 - 📫 I love **Music.**
 
