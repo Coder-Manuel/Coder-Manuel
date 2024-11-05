@@ -5,8 +5,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/352db711-af25-4169-a26f-862ae360de03.svg)](https://wakatime.com/@352db711-af25-4169-a26f-862ae360de03)
 
-![status](https://badge.stateful.com/Coder-Manuel/status.svg)
-
 
 - 🌱 My tech stack is **Frontend Development: Flutter** || **Server Development: Typescript & Golang** || **Databases: MySQL, PostgreSQL, MongoDB/Firebase** || **CI/CD & DevOps: CodeMagic, Jenkins, FastLane and Firebase.**
 
