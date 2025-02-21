@@ -13,7 +13,7 @@
 - 📫 I love **Music.**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/coder_manuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_manuel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/coder-manuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-bonke-91252b170" height="30" width="40" /></a>
